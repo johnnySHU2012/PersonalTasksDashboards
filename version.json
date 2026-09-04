@@ -1,0 +1,5 @@
+{
+  "version": "1.0.2.3",
+  "downloadUrl": "https://johnnyshu2012.github.io/PersonalTasksDashboards/PersonalTasksDashboards-Setup-1.0.2.3.exe",
+  "changelog": "- 当前为基线版本\n- 发布新版本时请提高 version，并更新 changelog 与 downloadUrl"
+}
